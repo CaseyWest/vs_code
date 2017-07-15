@@ -1,23 +1,19 @@
 # vs_code
 
-{
-    "editor.fontSize": 14,
-    "editor.fontFamily": "Menlo",
-    "editor.tabSize": 2,
-    "editor.detectIndentation": false,
-    "editor.cursorStyle": "line",
-    "editor.cursorBlinking": "blink",
-    "editor.scrollBeyondLastLine": false,
-    "editor.minimap.enabled": true,
+Just a place to hold my Visual Studio Code settings and addon list.
 
-    "explorer.openEditors.visible": 0,
-    "explorer.autoReveal": false,
+#AddOns
 
-    "terminal.integrated.fontSize": 12,
-    "terminal.integrated.fontFamily": "Menlo",
-
-    "workbench.colorTheme": "Monokai++",
-    "workbench.iconTheme": "vscode-icons",
-
-    "python.linting.pylintArgs": ["--load-plugins", "pylint_django"]
-}
+Beautify
+Docker
+es-beautifier
+ESLint
+Lua
+Monokai++
+npm
+Prettify JSON
+Pug (Jade) snippets
+Pug beautify
+puglint
+vscode-icons
+vue
