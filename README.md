@@ -24,6 +24,8 @@ Pug beautify
 
 puglint
 
+standard
+
 vscode-icons
 
 vue
