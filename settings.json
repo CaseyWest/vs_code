@@ -1,6 +1,6 @@
 {
     "editor.fontSize": 14,
-    "editor.fontFamily": "Menlo",
+    "editor.fontFamily": "Menlo, Consolas",
     "editor.tabSize": 2,
     "editor.detectIndentation": false,
     "editor.cursorStyle": "line",
@@ -12,7 +12,7 @@
     "explorer.autoReveal": false,
 
     "terminal.integrated.fontSize": 12,
-    "terminal.integrated.fontFamily": "Menlo",
+    "terminal.integrated.fontFamily": "Menlo, Consolas",
 
     "workbench.colorTheme": "Monokai++",
     "workbench.iconTheme": "vscode-icons",
